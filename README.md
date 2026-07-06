@@ -7,7 +7,7 @@ Storage Wars style container auctions for civilians. ox_lib + framework/inventor
 Required:
 
 - [`ox_lib`](https://github.com/overextended/ox_lib)
-- `smoke-bridge`(https://github.com/BigSmoke6000/smoke-bridge)
+- [`smoke-bridge`](https://github.com/BigSmoke6000/smoke-bridge)
 - One supported framework through `smoke-bridge`: `qbx_core`, `qb-core`, `es_extended`, or a custom bridge
 - One supported inventory through `smoke-bridge`: `qs-inventory`, `ox_inventory`, `qb-inventory`, or a custom bridge
 
